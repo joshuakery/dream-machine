@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdream_machine=self.webpackChunkdream_machine||[]).push([[435],{9245:function(e,n,l){l.r(n);var a=l(7294),t=l(5444);n.default=function(){var e=(0,t.K2)("509696390");return a.createElement("div",null,a.createElement("h1",null,"All MP3 Downloads"),a.createElement("ul",null,e.allFile.edges.map((function(e,n){return a.createElement("li",{key:"mp3-"+n},a.createElement("a",{href:e.node.publicURL,download:!0},e.node.name))}))))}}}]);
+//# sourceMappingURL=component---src-pages-downloads-js-5f244d68227deb6d7024.js.map
