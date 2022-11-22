@@ -1,0 +1,134 @@
+.background {
+  width: 100%;
+  position: absolute;
+}
+
+.casing {
+  height: 111vw;
+  margin: auto;
+  margin-top: 5vw;
+  background-repeat: no-repeat;
+  background-position: 50% 0%;
+  background-size: 105%;
+  padding: 8vw 6vw;
+
+}
+
+.titleContainer {
+  width: 55vw;
+  margin: auto;
+  height: 15vw;
+  background-position: 50% 50%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin-bottom: 2vw;
+}
+
+.title {
+  height: 100%;
+  margin:0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  font-family: trade-gothic-next-compressed, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 10vw;
+  position: relative;
+  top: -2px;
+  background: -webkit-linear-gradient(#4d4d4d 0%, #212121 97%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+
+.buttonsContainer {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  background-position: 50% 50%;
+  background-size: 150%;
+  padding: 5vw;
+  padding-top: 0;
+}
+
+/* .buttonsContainer a {
+  width: 70%;
+  margin: auto;
+  margin-bottom: 4vw;
+} */
+
+.smallWindow {
+  background-position: 50% 50%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30vw;
+  margin: 5vw;
+  margin-bottom: 0;
+}
+
+.smallWindow img {
+  width: 50%;
+  margin: auto;
+}
+
+/* .button {
+  padding: 2.5vw;
+
+  background-position: 50% 50%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.button img {
+  width: 100%;
+  -webkit-filter: drop-shadow(2px 1px 0 white)
+  drop-shadow(-1px -1px 0 white);
+  filter: drop-shadow(2px 1px 0 white) 
+  drop-shadow(-1px -1px 0 white);
+} */
+
+.nextButton {
+  margin-right: 1vw;
+}
+
+.bottom {
+  height: 5vw;
+  background-position: 50% 100%;
+  background-size: 150%;
+  background-repeat: no-repeat;
+}
+
+@media (hover: hover) and (min-width: 700px) {
+  .casing {
+    max-width: 500px;
+    margin-top: 20px;
+
+    background-size: 100%;
+    padding: 60px 40px;
+
+    grid-template-columns: 30px auto 70px 30px;
+    grid-template-rows: 20px 70px 10px 345px 15px 70px auto;
+  }
+  .titleContainer {
+    width: 240px;
+    height: 65px;
+  }
+  .title {
+    font-size: 48px;
+  }
+  .buttonsContainer {
+    padding: 20px;
+  }
+  .smallWindow {
+    height: 205px;
+    margin: 20px;
+    margin-bottom: 0;
+  }
+
+
+}

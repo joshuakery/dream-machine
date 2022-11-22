@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 470 115">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="235" y1="115" x2="235" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="silver"/>
+      <stop offset="1" stop-color="#d9d9d9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="235" y1="15" x2="235" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dbdbe1"/>
+      <stop offset="0.01" stop-color="#dadae0"/>
+      <stop offset="0.23" stop-color="#c3c4c7"/>
+      <stop offset="0.46" stop-color="#b3b4b6"/>
+      <stop offset="0.7" stop-color="#a9aaab"/>
+      <stop offset="0.99" stop-color="#a6a7a8"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_6" data-name="Layer 6">
+      <g>
+        <path class="cls-1" d="M455,15v85H15V15H455m0-15H15A15,15,0,0,0,0,15v85a15,15,0,0,0,15,15H455a15,15,0,0,0,15-15V15A15,15,0,0,0,455,0Z"/>
+        <rect class="cls-2" x="15" y="15" width="440" height="85"/>
+      </g>
+    </g>
+  </g>
+</svg>

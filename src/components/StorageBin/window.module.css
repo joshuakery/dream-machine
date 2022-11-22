@@ -1,0 +1,15 @@
+.windowBackground {
+    background-position: 50% 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 5px 10px 10px 10px;
+    margin-bottom: 6vw;
+  }
+
+.window {
+    position:relative;
+    background-position: 50% 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 3vw;
+  }

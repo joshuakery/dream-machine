@@ -1,0 +1,54 @@
+.buttonsContainer {
+    margin-top: 4vw;
+    margin-bottom: 50vw;
+    width: 100%;
+    text-align: center;
+    text-align: center;
+  }
+  
+.button {
+    display: inline-block;
+    height: 10vw;
+  }
+  
+.button img {
+    height: 100%;
+  }
+  
+.buttonsRow {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+.buttonsQuad {
+    position:relative;
+    height:20vw;
+    width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+  }
+  
+.buttonsQuadArc {
+    position:absolute;
+    top:0;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+  
+  }
+  
+.button.clothesCenter {
+    height: 11vw;
+  }
+
+@media (hover:hover) and (min-width: 700px) {
+  .button {
+    height: 70px;
+  }
+
+  .button.clothesCenter {
+    height: 75px;
+  }
+}

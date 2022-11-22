@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 266.14 171.18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #363556;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#New_Gradient_Swatch_copy_3);
+      }
+
+      .cls-5 {
+        fill: url(#New_Gradient_Swatch_copy_3-2);
+      }
+
+      .cls-6 {
+        fill: url(#New_Gradient_Swatch_copy_3-3);
+      }
+
+      .cls-7 {
+        fill: url(#New_Gradient_Swatch_copy_3-4);
+      }
+
+      .cls-8 {
+        fill: url(#New_Gradient_Swatch_copy_3-5);
+      }
+
+      .cls-9 {
+        fill: url(#New_Gradient_Swatch_copy_3-6);
+      }
+
+      .cls-10 {
+        fill: url(#New_Gradient_Swatch_copy_3-7);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="133.07" y1="171.18" x2="133.07" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e5b86"/>
+      <stop offset="1" stop-color="#9287b4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="133.07" y1="15" x2="133.07" y2="156.18" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7f6fb"/>
+      <stop offset="0.26" stop-color="#b4b4b4"/>
+      <stop offset="0.88" stop-color="#b4b4b4"/>
+      <stop offset="1" stop-color="#c0c0c1"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_copy_3" data-name="New Gradient Swatch copy 3" x1="59.03" y1="59.98" x2="59.03" y2="111.36" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#444362"/>
+      <stop offset="0.68" stop-color="#212121"/>
+      <stop offset="1" stop-color="#444362"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_copy_3-2" x1="85.77" y1="60.54" x2="85.77" y2="110.8" xlink:href="#New_Gradient_Swatch_copy_3"/>
+    <linearGradient id="New_Gradient_Swatch_copy_3-3" x1="109.08" y1="59.98" x2="109.08" y2="111.36" xlink:href="#New_Gradient_Swatch_copy_3"/>
+    <linearGradient id="New_Gradient_Swatch_copy_3-4" x1="132.91" y1="60.54" x2="132.91" y2="110.8" xlink:href="#New_Gradient_Swatch_copy_3"/>
+    <linearGradient id="New_Gradient_Swatch_copy_3-5" x1="158.81" y1="60.54" x2="158.81" y2="110.8" xlink:href="#New_Gradient_Swatch_copy_3"/>
+    <linearGradient id="New_Gradient_Swatch_copy_3-6" x1="186.42" y1="60.54" x2="186.42" y2="110.8" xlink:href="#New_Gradient_Swatch_copy_3"/>
+    <linearGradient id="New_Gradient_Swatch_copy_3-7" x1="209.52" y1="59.98" x2="209.52" y2="111.36" xlink:href="#New_Gradient_Swatch_copy_3"/>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="buttons">
+      <g>
+        <g id="clothes_center_rect" data-name="clothes center rect">
+          <path class="cls-1" d="M133.07,15c65.21,0,118.07,31.6,118.07,70.59s-52.86,70.59-118.07,70.59S15,124.57,15,85.59,67.86,15,133.07,15m0-15C98.86,0,66.48,8.1,41.89,22.8,29.24,30.36,19.19,39.33,12,49.45,4.05,60.73,0,72.89,0,85.59s4.05,24.85,12,36.14c7.16,10.12,17.21,19.08,29.86,26.65,24.59,14.7,57,22.8,91.18,22.8s66.59-8.1,91.19-22.8c12.64-7.57,22.69-16.53,29.85-26.65,8-11.29,12-23.45,12-36.14s-4.05-24.86-12-36.14C247,39.33,236.9,30.36,224.26,22.8,199.66,8.1,167.28,0,133.07,0Z"/>
+          <g>
+            <g>
+              <ellipse class="cls-2" cx="133.07" cy="79.59" rx="118.07" ry="70.59"/>
+              <ellipse class="cls-2" cx="133.07" cy="84.59" rx="118.07" ry="70.59"/>
+              <ellipse class="cls-2" cx="133.07" cy="77.59" rx="118.07" ry="70.59"/>
+              <ellipse class="cls-2" cx="133.07" cy="82.59" rx="118.07" ry="70.59"/>
+              <ellipse class="cls-2" cx="131.07" cy="79.59" rx="118.07" ry="70.59"/>
+              <ellipse class="cls-2" cx="131.07" cy="84.59" rx="118.07" ry="70.59"/>
+              <ellipse class="cls-2" cx="131.07" cy="77.59" rx="118.07" ry="70.59"/>
+              <ellipse class="cls-2" cx="131.07" cy="82.59" rx="118.07" ry="70.59"/>
+              <ellipse class="cls-2" cx="133.07" cy="82.59" rx="118.07" ry="70.59"/>
+              <ellipse class="cls-2" cx="133.07" cy="87.59" rx="118.07" ry="70.59"/>
+              <ellipse class="cls-2" cx="133.07" cy="80.59" rx="118.07" ry="70.59"/>
+              <ellipse class="cls-2" cx="133.07" cy="85.59" rx="118.07" ry="70.59"/>
+              <ellipse class="cls-2" cx="131.07" cy="82.59" rx="118.07" ry="70.59"/>
+              <ellipse class="cls-2" cx="131.07" cy="87.59" rx="118.07" ry="70.59"/>
+              <ellipse class="cls-2" cx="131.07" cy="80.59" rx="118.07" ry="70.59"/>
+              <ellipse class="cls-2" cx="131.07" cy="85.59" rx="118.07" ry="70.59"/>
+            </g>
+            <g>
+              <g>
+                <ellipse class="cls-2" cx="135.07" cy="79.59" rx="118.07" ry="70.59"/>
+                <ellipse class="cls-2" cx="135.07" cy="84.59" rx="118.07" ry="70.59"/>
+                <ellipse class="cls-2" cx="135.07" cy="77.59" rx="118.07" ry="70.59"/>
+                <ellipse class="cls-2" cx="135.07" cy="82.59" rx="118.07" ry="70.59"/>
+                <ellipse class="cls-2" cx="133.07" cy="79.59" rx="118.07" ry="70.59"/>
+                <ellipse class="cls-2" cx="133.07" cy="84.59" rx="118.07" ry="70.59"/>
+                <ellipse class="cls-2" cx="133.07" cy="77.59" rx="118.07" ry="70.59"/>
+                <ellipse class="cls-2" cx="133.07" cy="82.59" rx="118.07" ry="70.59"/>
+              </g>
+              <g>
+                <g>
+                  <ellipse class="cls-2" cx="135.07" cy="82.59" rx="118.07" ry="70.59"/>
+                  <ellipse class="cls-2" cx="135.07" cy="87.59" rx="118.07" ry="70.59"/>
+                  <ellipse class="cls-2" cx="135.07" cy="80.59" rx="118.07" ry="70.59"/>
+                  <ellipse class="cls-2" cx="135.07" cy="85.59" rx="118.07" ry="70.59"/>
+                </g>
+                <g>
+                  <g>
+                    <ellipse class="cls-2" cx="133.07" cy="82.59" rx="118.07" ry="70.59"/>
+                    <ellipse class="cls-2" cx="133.07" cy="87.59" rx="118.07" ry="70.59"/>
+                  </g>
+                  <g>
+                    <ellipse cx="133.07" cy="80.59" rx="118.07" ry="70.59"/>
+                    <ellipse class="cls-3" cx="133.07" cy="85.59" rx="118.07" ry="70.59"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g>
+          <path class="cls-4" d="M70.54,93.37c-.35,11.34-3.43,18-11.2,18-9,0-11.83-8.75-11.83-25.83C47.51,70,50,60,59.34,60,67,60,70,66.35,70.26,76.36H64.94c-.42-7.42-2.1-11.06-5.53-11.06-4.48,0-5.95,6-5.95,20.23,0,14.91,1.54,20.58,5.95,20.58,3.85,0,5.46-4.41,5.81-12.74Z"/>
+          <path class="cls-5" d="M76.21,110.8V60.54h5.67v45H95.32v5.25Z"/>
+          <path class="cls-6" d="M97.21,85.53c0-18.2,3.43-25.55,11.9-25.55s11.83,7.35,11.83,25.55c0,17.57-3.36,25.83-11.83,25.83S97.21,103.1,97.21,85.53Zm17.85,0c0-14.7-1.68-20.37-6-20.37s-6,5.67-6,20.37,1.89,20.72,6,20.72S115.06,100.16,115.06,85.53Z"/>
+          <path class="cls-7" d="M130.11,110.8v-45h-8.19V60.54h22v5.25h-8.12v45Z"/>
+          <path class="cls-8" d="M163.85,110.8V87.07h-10V110.8h-5.67V60.54h5.67V81.89h10V60.54h5.6V110.8Z"/>
+          <path class="cls-9" d="M176.59,110.8V60.54h18.83v5.25H182.26V82.17h10.15v5.18H182.26v18.2h14v5.25Z"/>
+          <path class="cls-10" d="M214.53,74c-.28-5.81-1.82-9-5.25-9-3.15,0-4.55,2.1-4.55,5.74,0,11.69,15.54,13.44,15.54,28.35,0,7.56-3.85,12.25-10.85,12.25s-10.15-4.48-10.64-13.72l5.32-.21c.49,6.37,1.89,8.89,5.46,8.89,3.29,0,5.18-2.52,5.18-6.58,0-12.11-15.47-13.93-15.47-28.42,0-7,3.57-11.34,9.87-11.34,7.28,0,10.15,5.11,10.5,13.79Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

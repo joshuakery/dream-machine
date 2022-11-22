@@ -1,0 +1,134 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    height: 100%;
+}
+
+html, .background {
+    background: linear-gradient(90deg, #b4b4b4 0%, #c1c1c1 53%, #b4b4b4 97%);
+    height: 100%;
+    width: 100%;
+}
+
+.homeMargin {
+    padding-top: 5vw;
+}
+
+.casing {
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+
+.casing {
+    background-size: 130%;
+    padding: 100px 30px;
+    height: 200vw;
+
+}
+
+.titleContainer {
+    height: 0;
+    text-align: center;
+}
+  
+.title {
+    height: 100%;
+    padding-bottom: 40%;
+    width: 35%;
+    background-position: 50% 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: auto;
+    position: relative;
+    top: -21vw;
+}
+
+.windowBackground {
+    height: 130vw;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 4;
+    grid-row-end: 5;
+    background-position: 50% 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: grid;
+    grid-template-columns: 4% auto 4%;
+    grid-template-rows: 2% auto 5%;
+}
+
+.window {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    background-position: 50% 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.textContainer {
+    padding: 8vw;
+    padding-top: 18vw;
+    height: 100%;
+}
+
+.textContainer p {
+    color: #d6ab80;
+
+    font-family: trade-gothic-next-compressed, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4vw;
+}
+
+p.acknowledgements {
+    font-size: 3vw;
+    position: relative;
+    bottom: 0;
+}
+
+@media (hover:hover) and (min-width:700px) {
+    .homeMargin {
+        padding-top: 20px;
+    }
+
+    .casing {
+        max-width: 500px;
+        max-height: 840px;
+        background-size: 100%;
+        padding: 130px 100px;
+    }
+    .title {
+        width: 75%;
+        max-width: 200px;
+        top: -125px;
+    }
+
+    .windowBackground {
+        height: 600px;
+        margin-top: 100px;
+    }
+
+    .textContainer {
+        padding: 40px;
+        padding-top: 40px;
+    }
+
+    .textContainer p {
+        font-size: 24px;
+    }
+
+    p.acknowledgements {
+        font-size: 18px;
+    }
+}

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 466.67 116.28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #4d4d4d;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+        stroke: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="233.34" y1="2" x2="233.34" y2="114.28" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#666"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="233.34" y1="116.28" x2="233.34" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e5b86"/>
+      <stop offset="1" stop-color="#9287b4"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="buttons">
+      <g>
+        <rect class="cls-1" x="2" y="2" width="462.67" height="112.28"/>
+        <path class="cls-2" d="M460.67,6V110.28H6V6H460.67m4-4H2V114.28H464.67V2Z"/>
+        <rect class="cls-3" x="2" y="2" width="462.67" height="112.28"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 470 115">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #666;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="235" y1="115" x2="235" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="silver"/>
+      <stop offset="1" stop-color="#d9d9d9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="235" y1="15" x2="235" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7f6fb"/>
+      <stop offset="0.24" stop-color="#e6e6e6"/>
+      <stop offset="0.99" stop-color="#c3c4c4"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_6" data-name="Layer 6">
+      <g>
+        <path class="cls-1" d="M455,15v85H15V15H455m0-15H15A15,15,0,0,0,0,15v85a15,15,0,0,0,15,15H455a15,15,0,0,0,15-15V15A15,15,0,0,0,455,0Z"/>
+        <g>
+          <g>
+            <rect class="cls-2" x="15" y="15" width="440" height="85"/>
+            <rect class="cls-2" x="15" y="16" width="440" height="85"/>
+            <rect class="cls-2" x="14" y="15" width="440" height="85"/>
+            <rect class="cls-2" x="14" y="16" width="440" height="85"/>
+            <rect class="cls-2" x="15" y="14" width="440" height="85"/>
+            <rect class="cls-2" x="15" y="15" width="440" height="85"/>
+            <rect class="cls-2" x="14" y="14" width="440" height="85"/>
+            <rect class="cls-2" x="14" y="15" width="440" height="85"/>
+          </g>
+          <g>
+            <g>
+              <rect class="cls-2" x="16" y="15" width="440" height="85"/>
+              <rect class="cls-2" x="16" y="16" width="440" height="85"/>
+              <rect class="cls-2" x="15" y="15" width="440" height="85"/>
+              <rect class="cls-2" x="15" y="16" width="440" height="85"/>
+            </g>
+            <g>
+              <g>
+                <rect class="cls-2" x="16" y="14" width="440" height="85"/>
+                <rect class="cls-2" x="16" y="15" width="440" height="85"/>
+              </g>
+              <g>
+                <rect class="cls-2" x="15" y="14" width="440" height="85"/>
+                <rect class="cls-3" x="15" y="15" width="440" height="85"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

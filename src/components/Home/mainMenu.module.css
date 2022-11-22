@@ -1,0 +1,174 @@
+.buttonsContainer {
+    margin-top: 4vw;
+    margin-bottom: 50vw;
+    width: 100%;
+    text-align: center;
+    text-align: center;
+  }
+  
+.button {
+    display: inline-block;
+    height: 10vw;
+  }
+
+  
+.button img {
+    height: 100%;
+  }
+  
+.buttonsRow {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+.buttonsQuad {
+    position:relative;
+    height:20vw;
+    width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+  }
+  
+.button.shoes {
+    height: 10vw;
+
+    display: grid;
+    grid-template-rows: 50% 50%;
+    grid-template-columns: 25% 50% 25%;
+
+    /* pointer-events: none; */
+  }
+.button.shoes img {
+  grid-row-start: 1;
+  grid-row-end: 3;
+  grid-column-start: 1;
+  grid-column-end: 4;
+}
+.shoesExtensionRight {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  z-index: 999;
+  /* pointer-events: auto; */
+  cursor: pointer;
+}
+/* .shoesExtensionRight:hover {
+  background: red;
+} */
+.shoesExtensionCenter {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    z-index: 999;
+    /* pointer-events: auto; */
+    cursor: pointer;
+}
+/* .shoesExtensionLeft:hover {
+  background: red;
+} */
+.shoesExtensionLeft {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    z-index: 999;
+    /* pointer-events: auto; */
+    cursor: pointer;
+}
+/* .shoesExtensionCenter:hover {
+  background: red;;
+} */
+  
+.buttonsQuadArc {
+    position:absolute;
+    top:0;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+  
+  }
+  
+.button.glass {
+    /* height: calc(100% / 3); */
+    position:relative;
+    top:9vw;
+  }
+  
+.button.gamesLeft {
+    height: 15vw;
+    position: relative;
+    top: 3px;
+    z-index: 2;
+  }
+/* .button.gamesLeft:hover {
+  background: red;
+} */
+  
+.button.gamesRight {
+    height: 15vw;
+    position: relative;
+    top: 3px;
+    z-index: 2;
+  }
+  /* .button.gamesRight:hover {
+    background: red;
+  } */
+  
+.button.clothesCenter {
+    height: 11vw;
+  }
+  
+.button.clothesLeft {
+    height:12vw;
+    position:relative;
+    top:-3vw;
+    left:-4vw;
+  }
+  
+.button.clothesRight {
+    height:12vw;
+    position:relative;
+    top:-3vw;
+    left:4vw;
+  }
+
+.aboutButton {
+    margin-top: 12vw;
+}
+
+@media (hover:hover) and (min-width: 700px) {
+  .button {
+    height: 70px;
+  }
+
+  .buttonsQuad {
+    max-height: 150px;
+  }
+
+  .button.shoes {
+    height: 70px;
+  }
+
+  .button.gamesLeft {
+    height: 100px;
+  }
+  .button.gamesRight {
+      height: 100px;
+    }
+  .button.glass {
+      top:60px;
+    }
+
+  .button.clothesCenter {
+      height: 75px;
+    }
+
+  .aboutButton {
+      margin-top: 75px;
+  }
+
+}

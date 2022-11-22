@@ -1,0 +1,23 @@
+.viewsOverview {
+    display: inline-flex;
+    align-items: center;
+    background-position: 50% 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 40%;
+    height: 8vw;
+    padding: 2vw;
+  }
+
+.viewsDisplay {
+    background: black;
+    width: 5vw;
+    height: 5vw;
+    margin: 5px;
+    display: inline-block;
+    border: 0.5vw solid #5e5b86;
+  }
+
+.viewsDisplay.current {
+    background: #d6ab80;
+  }

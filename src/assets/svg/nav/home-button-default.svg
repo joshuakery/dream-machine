@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 114 114">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #363556;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#New_Gradient_Swatch_copy_4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="57" y1="114" x2="57" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="silver"/>
+      <stop offset="1" stop-color="#d9d9d9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="57" y1="15" x2="57" y2="99" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7f6fb"/>
+      <stop offset="0.24" stop-color="#e6e6e6"/>
+      <stop offset="0.79" stop-color="#e6e6e6"/>
+      <stop offset="0.99" stop-color="#cfcfcf"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_copy_4" data-name="New Gradient Swatch copy 4" x1="57.04" y1="76.65" x2="57.04" y2="32.74" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#363556"/>
+      <stop offset="0.05" stop-color="#39385a"/>
+      <stop offset="0.66" stop-color="#5e5b86"/>
+      <stop offset="0.97" stop-color="#5e5b86"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_4" data-name="Layer 4">
+      <g>
+        <g>
+          <path class="cls-1" d="M57,15A42,42,0,1,1,15,57,42,42,0,0,1,57,15M57,0a57,57,0,1,0,57,57A57.06,57.06,0,0,0,57,0Z"/>
+          <g>
+            <g>
+              <circle class="cls-2" cx="58" cy="58" r="42"/>
+              <circle class="cls-2" cx="58" cy="56" r="42"/>
+              <circle class="cls-2" cx="56" cy="58" r="42"/>
+              <circle class="cls-2" cx="56" cy="56" r="42"/>
+              <circle class="cls-2" cx="58" cy="59" r="42"/>
+              <circle class="cls-2" cx="58" cy="57" r="42"/>
+              <circle class="cls-2" cx="56" cy="59" r="42"/>
+              <circle class="cls-2" cx="56" cy="57" r="42"/>
+            </g>
+            <g>
+              <g>
+                <circle class="cls-2" cx="59" cy="58" r="42"/>
+                <circle class="cls-2" cx="59" cy="56" r="42"/>
+                <circle class="cls-2" cx="57" cy="58" r="42"/>
+                <circle class="cls-2" cx="57" cy="56" r="42"/>
+              </g>
+              <g>
+                <g>
+                  <circle cx="59" cy="59" r="42"/>
+                  <circle cx="59" cy="57" r="42"/>
+                </g>
+                <g>
+                  <circle cx="57" cy="59" r="42"/>
+                  <circle class="cls-3" cx="57" cy="57" r="42"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <path class="cls-4" d="M56.45,32.92l-20,15a1,1,0,0,0-.41.81v27a1,1,0,0,0,1,1H50.55a1,1,0,0,0,1-1v-16h11v16a1,1,0,0,0,1,1H77a1,1,0,0,0,1-1V48.7a1,1,0,0,0-.41-.81l-20-15A1,1,0,0,0,56.45,32.92Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

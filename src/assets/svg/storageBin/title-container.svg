@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 599.61 156.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: #1a1a1a;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="299.8" y1="156.5" x2="299.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e5b86"/>
+      <stop offset="1" stop-color="#9287b4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="299.8" y1="15" x2="299.8" y2="141.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#757575"/>
+      <stop offset="0.03" stop-color="#858585"/>
+      <stop offset="0.08" stop-color="#9a9a9a"/>
+      <stop offset="0.14" stop-color="#a9a9a9"/>
+      <stop offset="0.21" stop-color="#b1b1b1"/>
+      <stop offset="0.31" stop-color="#b4b4b4"/>
+      <stop offset="0.5" stop-color="#b4b4b4"/>
+      <stop offset="0.53" stop-color="#b4b4b4"/>
+      <stop offset="0.89" stop-color="#858585"/>
+      <stop offset="1" stop-color="#757575"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="buttons">
+      <g>
+        <path class="cls-1" d="M584.61,15V141.5H15V15H584.61m0-15H15A15,15,0,0,0,0,15V141.5a15,15,0,0,0,15,15H584.61a15,15,0,0,0,15-15V15a15,15,0,0,0-15-15Z"/>
+        <rect class="cls-2" x="15" y="15" width="569.61" height="126.5"/>
+        <path class="cls-3" d="M584.61,15V141.5H15V15H584.61m0-2H15a2,2,0,0,0-2,2V141.5a2,2,0,0,0,2,2H584.61a2,2,0,0,0,2-2V15a2,2,0,0,0-2-2Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
