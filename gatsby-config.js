@@ -2,6 +2,7 @@ require("dotenv").config()
 
 module.exports = {
   pathPrefix: "/reponame",
+  
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
     title: "DREAM MACHINE",
