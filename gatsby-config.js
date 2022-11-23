@@ -1,10 +1,10 @@
 require("dotenv").config()
 
 module.exports = {
-  pathPrefix: "/reponame",
-  
+  pathPrefix: "/dream-machine",
+
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    siteUrl: "https://joshuakery.github.io/dream-machine/",
     title: "DREAM MACHINE",
   },
   plugins: [

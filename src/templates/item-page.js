@@ -127,6 +127,7 @@ class ItemPage extends Component {
         >
           <div
             className={`
+              ${styles.smallWindowImageWrapper}
               ${(this.state.fadeIn || isFirstItemWithPreviousItems) && styles.fadeIn}
               ${(isFirstItemWithPreviousItems) && styles.reducedDelay}
               ${this.state.fadeOut && styles.fadeOut}
@@ -190,11 +191,13 @@ class ItemPage extends Component {
                               ${this.state.fadeOut && styles.fadeOut}
                             `}
                 >
+                  <div className={`${styles.mainImageImageWrapper}`}>
                     <GatsbyImage
                       image={getImage(views[view])}
                       alt={`${title}: View #${view}`}
                       className={` ${ (doHide) && styles.hide} `}
                     />
+                  </div>
                 </div>
 
                 {views.length > 1 &&
@@ -223,6 +226,7 @@ class ItemPage extends Component {
                 >
                   <div
                     className={`
+                      ${styles.smallWindowImageWrapper}
                       ${this.state.fadeIn && styles.fadeIn}
                       ${this.state.fadeOut && styles.fadeOut}
                       ${ (doHide) && styles.hide}

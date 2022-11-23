@@ -41,7 +41,7 @@
   justify-content: center;
 }
 
-.smallWindow img {
+.smallWindowImageWrapper {
   width: 50%;
   margin: auto;
 }
@@ -92,7 +92,7 @@
   margin-bottom: 0;
 }
 
-.mainImage img {
+.mainImageImageWrapper {
   width: 80%;
   height: auto;
   margin: auto;

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {Howl} from 'howler';
-import { navigate } from "gatsby"
+import { navigate, withPrefix } from "gatsby"
 
 import playerBackground from '../../assets/svg/player/player-background2.png';
 
@@ -55,7 +55,7 @@ class SoundPlayer extends Component {
 
         var sound = new Howl({
 
-            src: [component.props.audio[trackNumber]],
+            src: [withPrefix(component.props.audio[trackNumber])],
 
             onload: function() {
                 if ((!component.props.prevItems || component.props.prevItems.length === 0) 
